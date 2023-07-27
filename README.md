@@ -1,4 +1,4 @@
-# abi-gen
+# abigen-cli
 
 ## Overview
 
@@ -7,5 +7,5 @@ This command-line tool is a thin wrapper for ethers-rs' [ethers_contract_abigen]
 ## Usage
 
 ```bash
-abi-gen -h
+abigen-cli -h
 ```

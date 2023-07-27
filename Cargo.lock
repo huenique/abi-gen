@@ -13,7 +13,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "abi-gen"
+name = "abigen-cli"
 version = "0.1.0"
 dependencies = [
  "clap",
